@@ -175,12 +175,94 @@ communications/
 **Capture d'écran :**
 ![Question 26](img/26.png)
 
+## 👨‍🚀 PHASE 4 : GESTION D'ÉQUIPAGE D'URGENCE
+
 ### Question 27 : Mode root
 **Énoncé :** Basculez en mode root et chargez l'environnement complet de l'administrateur.
 
 **Capture d'écran :**
 ![Question 27](img/27.png)
 
+### Question 28 : Création de users
+**Énoncé :** Créez les comptes pour les 4 membres de l'équipe de secours :
+* Stella (Commandante)
+* Cosmos (Ingénieur)
+* Luna (Scientifique)
+* Apollo (Pilote)
 
-## 👨‍🚀 PHASE 4 : GESTION D'ÉQUIPAGE D'URGENCE
+Chaque astronaute doit avoir un répertoire personnel et les permissions appropriées.
 
+**Capture d'écran :**
+![Question 28](img/28.png)
+
+### Question 29 : Création d'un groupe
+**Énoncé :** Créez un groupe appelé astronautes.
+
+**Capture d'écran :**
+![Question 29](img/29.png)
+
+### Question 30 : Mot de passe pour le groupe
+**Énoncé :** Assignez un mot de passe au groupe astronautes. Utilisez le mot de passe SpaceLinux2030 quand il vous sera demandé.
+
+**Capture d'écran :**
+![Question 30](img/30.png)
+
+### Question 31 : Ajout au groupe
+**Énoncé :** Faites d'astronautes le groupe principal pour tous les nouveaux membres d'équipage.
+
+**Capture d'écran :**
+![Question 31](img/31.png)
+
+### Question 32 : Nouveaux groupes
+**Énoncé :** L'équipage se divise en spécialités. Créez deux groupes supplémentaires : technique et recherche.
+
+**Capture d'écran :**
+![Question 32](img/32.png)
+
+### Question 33 : Ajout au groupes secondaires
+**Énoncé :** Ajoutez Stella et Cosmos au groupe secondaire technique.
+
+**Capture d'écran :**
+![Question 33](img/33.png)
+
+### Question 34 : Ajout au groupes secondaires (partie 2)
+**Énoncé :** Ajoutez Luna et Apollo au groupe secondaire recherche.
+
+**Capture d'écran :**
+![Question 34](img/34.png)
+
+### Question 35 : Ajout d'un MDP
+**Énoncé :** La commandante Stella a besoin d'un mot de passe sécurisé. Assignez-lui un mot de passe.
+
+**Capture d'écran :**
+![Question 35](img/35.png)
+
+### Question 36 : MDP temporaire
+**Énoncé :** Pour la sécurité, Stella doit changer son mot de passe temporaire à sa prochaine connexion. Configurez cette politique.
+
+**Capture d'écran :**
+![Question 36](img/36.png)
+
+### Question 37 : Création d'un répertoire
+**Énoncé :** Créez un répertoire de mission pour l'équipe technique dans le répertoire racine.
+
+**Capture d'écran :**
+![Question 37](img/37.png)
+
+### Question 38 : Propriétaire du dossier
+**Énoncé :** En une seule commande, assignez la propriété du répertoire technique à Stella et au groupe technique.
+
+**Capture d'écran :**
+![Question 38](img/38.png)
+
+### Question 39 : Permissions de mission
+**Énoncé :** Configurez les permissions du répertoire technique pour que tous les membres du groupe puissent lire, écrire et accéder au répertoire.
+
+**Capture d'écran :**
+![Question 39](img/39.png)
+
+### Question 40 : Suppression d'Apollo
+**Énoncé :** ALERTE ! Mission Control signale qu'Apollo a échoué aux tests médicaux finaux et doit être retiré de la mission immédiatement. Supprimez complètement son compte utilisateur ainsi que son répertoire personnel pour des raisons de sécurité.
+
+**Capture d'écran :**
+![Question 40](img/40.png)
