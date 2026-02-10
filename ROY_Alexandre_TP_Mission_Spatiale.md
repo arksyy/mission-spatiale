@@ -132,3 +132,55 @@ communications/
 ![Question 19](img/19.png)
 
 ## 🔐 PHASE 3 : SÉCURISATION DES ACCÈS
+
+### Question 20 : Permissions avec la notation symbolique
+**Énoncé :** Le fichier .codes_acces contient les codes secrets de la station. Modifiez ses permissions pour que SEUL le propriétaire puisse le lire, l'écrire et l'exécuter. Utilisez la notation symbolique.
+
+**Capture d'écran :**
+![Question 20](img/20.png)
+
+### Question 21 : Permissions avec la notion octale
+**Énoncé :** Changez maintenant les permissions de .codes_acces pour qu'il ait les permissions 700 (propriétaire seul avec tous les droits) en utilisant la notation octale.
+
+**Capture d'écran :**
+![Question 21](img/21.png)
+
+### Question 22 : Ajout du bit SUID
+**Énoncé :** Le fichier de log de l'équipage doit pouvoir être exécuté par le système. Ajoutez le bit SUID au fichier equipage_log. Utilisez la méthode de votre choix.
+
+**Capture d'écran :**
+![Question 22](img/22.png)
+
+### Question 23 : Exécution d'un script
+**Énoncé :** Exécutez le script ./.codes_acces. Cela devrait créer un nouveau module salle_controle avec un fichier acces_total à l'intérieur.
+
+**Capture d'écran :**
+![Question 23](img/23.png)
+
+### Question 24 : Affichage de permissions
+**Énoncé :** Affichez le masque de permissions par défaut (umask) actuel.
+
+**Capture d'écran :**
+![Question 24](img/24.png)
+
+### Question 25 : Configuration d'un masque
+**Énoncé :** Configurez un nouveau masque de permissions pour que seul le propriétaire ait tous les droits sur les nouveaux fichiers créés.
+
+**Capture d'écran :**
+![Question 25](img/25.png)
+
+### Question 26 : Vérification
+**Énoncé :** Vous êtes maintenant le commandant de la station ! Vérifiez que vous êtes bien propriétaire du fichier acces_total et affichez ses permissions détaillées pour confirmer votre contrôle total.
+
+**Capture d'écran :**
+![Question 26](img/26.png)
+
+### Question 27 : Mode root
+**Énoncé :** Basculez en mode root et chargez l'environnement complet de l'administrateur.
+
+**Capture d'écran :**
+![Question 27](img/27.png)
+
+
+## 👨‍🚀 PHASE 4 : GESTION D'ÉQUIPAGE D'URGENCE
+
